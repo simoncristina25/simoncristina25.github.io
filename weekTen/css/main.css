@@ -1,0 +1,48 @@
+body {
+	background-color: red;
+}
+
+a:hover {
+	color:blue;
+}
+
+.header {
+	background-color: white;
+}
+
+.footer {
+	background-color: white;
+}
+
+.hero {
+	background-image: url("../images/whitecat.jpg");
+	background-color: yellow;
+	min-height: 300px;
+}
+
+.border {
+	border-style: solid;
+	border-color: gold;
+}
+
+.sm-img {
+	width: 10%;
+}
+
+.column {
+	width: 33%;
+	float: left;
+}
+
+.clear {
+	clear: both;
+}
+
+.nav-group {
+	float: left;
+}
+
+.nav-item {
+	list-style-type: none;
+	display: inline-block;
+}
