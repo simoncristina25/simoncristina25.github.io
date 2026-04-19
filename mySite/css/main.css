@@ -1,0 +1,48 @@
+body {
+	background-color: orange;
+}
+
+a:hover {
+	color: blue;
+}
+
+.header {
+	background-color: white;
+}
+
+.footer {
+	background-color white;
+}
+
+.hero {
+	background-image: url("../images/blackcat.jpg");
+	background-color: mediumpurple;
+	min-height:100px;
+}
+
+.border {
+	border-style: solid;
+	border-color: lightgoldenrodyellow;
+}
+
+.sm-img {
+	width: 30%;
+}
+
+.column {
+	width: 77%;
+	float: left;
+}
+
+.clear {
+	clear:both;
+}
+
+.nav-group {
+	float: left;
+}
+
+.nav-item {
+	list-style-type: none;
+	display: inline-block;
+}
